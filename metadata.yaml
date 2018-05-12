@@ -1,0 +1,32 @@
+_repo: The-Art-of-War-in-the-Middle-Ages-A.D.-378-1515_44308
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44308-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Oman, Charles
+    aliases:
+    - Oman, Charles William Chadwick
+    - Oman, C. W. C. (Charles William Chadwick)
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '39035'
+    url: http://www.gutenberg.org/2009/agents/39035
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Oman
+description: ''
+gutenberg_issued: '2013-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44308'
+  lccn: '17004051'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Military art and science -- History -- Medieval, 500-1500'
+- !lcsh 'Military history, Medieval'
+- !lcc 'U'
+title: The Art of War in the Middle Ages A.D. 378-1515
+url: http://www.gutenberg.org/ebooks/44308
